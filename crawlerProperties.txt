@@ -1,0 +1,5 @@
+pool.size=5
+depth.limit=2
+read.exceptionfile=false
+depth.control=true
+change.basehref=false
